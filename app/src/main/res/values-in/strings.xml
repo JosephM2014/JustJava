@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--<resources xmlns:xliff="http://schemas.android.com/tools">-->
+    <string name="app_name">Hanya Java</string>
+    <string name="name">Nama</string>
+    <string name="toppings">Rempah - Rempah</string>
+    <string name="whipped_cream">Krim Susu</string>
+    <string name="chocolate">Coklat</string>
+    <string name="quantity">Jumlah</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order">Pesan</string>
+    <string name="order_summary_name">Nama :<xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Tambah Krim Susu ?<xliff:g example="true" id="addWhippedCream">%s</xliff:g></string>
+    <string name="order_summary_chocolate">Tambahkan Coklat ?<xliff:g example="ya" id="addChocolate">%s</xliff:g></string>
+    <string name="order_summary_quantity">Jumlah : <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_price">Total:<xliff:g example="Rp.10" id="price">%s</xliff:g></string>
+    <string name="thank_you">Terimakasih !</string>
+    <string name="order_summary_email_subject">Pesanan Hanya Java Untuk<xliff:g example="Amy" id="name">%s</xliff:g></string>
+</resources>
